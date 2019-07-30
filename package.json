@@ -1,0 +1,23 @@
+{
+  "name": "spielbank",
+  "version": "0.1.0",
+  "description": "A web interface for my video games collection",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeCook83/spielbank.git"
+  },
+  "keywords": [
+    "video_games",
+    "consoles"
+  ],
+  "author": "CodeCook",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodeCook83/spielbank/issues"
+  },
+  "homepage": "https://github.com/CodeCook83/spielbank#readme"
+}
