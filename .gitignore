@@ -86,3 +86,12 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+# macOS operating system
+.DS_Store
+
+# Keys
+keys_dev.js
+
+# VSCODE
+.vscode
